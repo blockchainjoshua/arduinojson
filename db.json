@@ -1,11 +1,8 @@
 {
-  "posts": [
+  "timer": [
     {
-      "id": 1,
-      "title": "hello"
+      "time": "10:29:12",
+      "days": "M,T,W,TTH,SAT,SUN"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
