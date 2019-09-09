@@ -1,8 +1,5 @@
+
 {
-  "timer": [
-    {
-      "time": "10:29:12",
-      "days": "M,T,W,TTH,SAT,SUN"
-    }
-  ]
+  "time": "10:29:12",
+   "days": "M,T,W,TTH,SAT,SUN"
 }
